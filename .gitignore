@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# その他、ダウンロードした外部素材
+Assets/BGM/*
+Assets/Fonts/*
+Assets/SE/*
+Assets/UnmaskForUGUI
